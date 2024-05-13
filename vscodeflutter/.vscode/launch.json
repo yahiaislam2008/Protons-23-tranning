@@ -1,0 +1,128 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "ExN5AMES",
+            "cwd": "ExN5AMES",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "ExN5AMES (profile mode)",
+            "cwd": "ExN5AMES",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "ExN5AMES (release mode)",
+            "cwd": "ExN5AMES",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "firstapp",
+            "cwd": "firstapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "firstapp (profile mode)",
+            "cwd": "firstapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "firstapp (release mode)",
+            "cwd": "firstapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "forthapp",
+            "cwd": "forthapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "forthapp (profile mode)",
+            "cwd": "forthapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "forthapp (release mode)",
+            "cwd": "forthapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "N5AMES",
+            "cwd": "N5AMES",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "N5AMES (profile mode)",
+            "cwd": "N5AMES",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "N5AMES (release mode)",
+            "cwd": "N5AMES",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "secondapp",
+            "cwd": "secondapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "secondapp (profile mode)",
+            "cwd": "secondapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "secondapp (release mode)",
+            "cwd": "secondapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        },
+        {
+            "name": "thirdapp",
+            "cwd": "thirdapp",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "thirdapp (profile mode)",
+            "cwd": "thirdapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "thirdapp (release mode)",
+            "cwd": "thirdapp",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
