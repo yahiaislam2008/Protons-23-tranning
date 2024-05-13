@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        {% block head %}
+        {% endblock %}
+        <title>Personal Journal</title>
+    </head>
+    <body>
+        <h1><a href="/">Welcome to Our Personal Journal</a></h1>
+        <hr/>
+        {% block menu %}
+        <div>
+            <a href="/">Main page</a> | 
+            <a href="/new">Add a Journal</a> |
+            <a href="/stats">stats</a> 
+        </div>
+        {% endblock %}
+        {% block body %}
+        {% endblock %}
+    </body>
+</html>

@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"name": "task 15",
+			"path": "."
+		},
+		{
+			"name": "test",
+			"path": "../test"
+		},
+		{
+			"name": "flask-school-demo",
+			"path": "../flask-school-demo"
+		}
+	],
+	"settings": {}
+}

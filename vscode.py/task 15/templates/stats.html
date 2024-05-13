@@ -1,0 +1,15 @@
+{% extends "layout.html" %}
+{% block body %}
+    <body>
+        
+        <div>
+            <a href="/">Main Page</a> |
+            <a href="/new_entry">New Entry</a> |
+            <a href="/stats">Stats</a>
+        </div>
+        <h1>Stats</h1>
+        <p>Number of Entries: {{ num_entries }}</p>
+        <p>Start Date: {{ start_date }}</p>
+        <p>Entry Streak Count: {{ streak_count }}</p>
+    </body>
+{% endblock %}

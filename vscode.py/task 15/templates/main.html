@@ -1,0 +1,23 @@
+{% extends "layout.html" %}
+{% block head %}
+    <style>
+        h2 {color: cyan;}
+        h3 {color:crimson;}
+        h4 {color: fuchsia;}
+    </style>
+{% endblock %}
+{% block body %}    
+    <body style="background-color: black;">
+        <h2>This yahia's Journal</h2>
+        <h3>Journal Entries:</h3>
+        <ul>
+            {% for entry in entries %}
+            <li>
+                <h4>{{ entry.title }}</h4>
+                <p>{{ entry.content }}</p>
+                <p>Date: {{ entry.date }}</p>
+            </li>
+            {% endfor %}
+        </ul>
+    </body>
+{% endblock %}

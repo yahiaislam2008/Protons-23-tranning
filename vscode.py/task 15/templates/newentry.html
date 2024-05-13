@@ -1,0 +1,19 @@
+{% extends "layout.html" %}
+{% block head %}
+    <style>
+        body{color: brown;
+        background-color: yellow;}
+    </style>
+{% endblock %}
+{% block body %}    
+    <body>
+        <h1>New Entry</h1>
+        <form action="/new" method="POST">
+            <label for="title">Title:</label><br>
+            <input type="text" id="title" name="title"><br><br>
+            <label for="content">Content:</label><br>
+            <textarea id="content" name="content"></textarea><br><br>
+            <input type="submit" value="Submit">
+        </form>
+    </body>
+{% endblock %}
