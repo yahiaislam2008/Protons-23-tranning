@@ -21,7 +21,7 @@ ball_dx = 1
 ball_dy = 1
 
 ball_speed = 2
-
+ 
 line=turtle.Turtle()
 line.goto(0,0)
 
