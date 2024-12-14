@@ -1,0 +1,26 @@
+servo motors : 4
+dc motors : 4
+TCRT5000 Tracking Line Follower Sensor : 3
+rechargerable batteries : (4 or 3) * 2 
+
+PCB :
+	AMS1117-3.3V
+	l293d ic
+	diode 
+	led for circut
+	rgb led for automatic and manual	pin headers male , female
+	screw terminals
+	capacitors
+
+
+
+https://electra.store/product/cgr-18650-e-mh12210-rechargeable-2600mah-3-7v-18650-li-ion-battery/
+https://electra.store/product/esp32-bluetooth-with-ch340-usb-type-c/  or https://makerselectronics.com/product/nodemcu-esp32-s-development-board-38-pin-wifi-and-bluetooth
+https://makerselectronics.com/product/dc-geared-motor-148-600-rpm-dual-axis-most-popular-model
+https://makerselectronics.com/product/l293d-quadruple-half-h-driver-dip-16
+https://makerselectronics.com/?term=&s=servo&post_type=product&taxonomy=product_cat
+https://makerselectronics.com/product/infrared-line-follower-sensor
+https://makerselectronics.com/?term=&s=diode+&post_type=product&taxonomy=product_cat
+https://electra.store/product/100uf-50v-aluminium-electrolytic-capacitor/
+https://makerselectronics.com/product/servo-motor-full-metal-gear-mg995-towerpro-180-degree
+https://makerselectronics.com/product/ams1117-3-3v-smd-fixed-12v-3-3v-800ma-sot-223-dropout-regulators
